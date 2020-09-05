@@ -1,0 +1,14 @@
+title{ 
+	margin-bottom: 10px; 
+	text-align:center; 
+	width: 210px;  
+	} 
+input[type="button"] 
+{ 
+	color: black;
+	width:100% 
+} 
+input[type="text"] 
+{  
+	width:100% 
+}
